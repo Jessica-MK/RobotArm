@@ -6,3 +6,9 @@ The project consist on the development of a robot arm with 6 axis of rotation. T
 - The electronics must fit inside the robot structure as to not disturb it's use
 - The developpement will be made using a MBSE approach
 
+### Requirements and Specification
+### System 
+### Structure
+### Assembly
+### Tests
+### Final Result
