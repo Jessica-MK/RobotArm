@@ -11,4 +11,4 @@
 - 1 servo motor per axis
 - 1 arduino Uno
 - Control by user via a mobile app
-- 
+- 3D model from howtomechatronics
